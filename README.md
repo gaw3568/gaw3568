@@ -5,7 +5,7 @@ ___
 
 ___
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mata8farmer)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mata8farmer)](https://solved.ac/mata8farmer/)
 
 ___
 ## Skills 💪
